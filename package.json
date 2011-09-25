@@ -1,0 +1,10 @@
+{
+  "name": "save",
+  "description": "An Aloha save plugin for 0.10 dev",
+  "summary": "Saves target editables or nested blocks",
+  "homepage": "http://samsherlock.com",
+  "author": "Sam Sherlock",
+  "version": "0.0.1",
+  "directories": {
+  }
+}
